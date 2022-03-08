@@ -1,0 +1,33 @@
+img{
+    width: 100%;
+    margin: auto;
+}
+
+.content{
+    text-align: center;
+    width: 80%;
+    height: 800px;
+    background-color: rgba(241, 243, 245, 0.9);
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    font-size: 2.5em;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 30px;
+}
+
+form input{
+    margin: 10px;
+}
+
+#textBox1, #textBox2, #textBox3{
+    height: 50px;
+}
+
+label{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
